@@ -27,6 +27,6 @@ flutter build apk
 ```
 flutter doctor
 ```
-
+___
 # Установка
 Следить за актуальностью приложения и скачать готовый билд вы можете на [странице релизов](https://github.com/Ninja-Official/rtu-mirea-mobile/releases) этого репозитория.
